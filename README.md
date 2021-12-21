@@ -16,7 +16,7 @@
 
 #### > 17 yo, a basic French Gamer & developer
 
-#### Discord : _ashi#1691 or https://discord.gg/T4P2fbNP8N 
+#### Discord : _ashi#1691
 
 </br>
 
