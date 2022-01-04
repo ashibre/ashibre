@@ -20,8 +20,6 @@
 
 *************
 
-#### > 17 yo, a basic French Gamer & developer
-
 </br>
 
 
