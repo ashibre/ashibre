@@ -32,7 +32,7 @@
 
 <p>  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashibre&layout=compact&theme=react"/>
-    <img align="left" alt="Ashibre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashibre&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img align="right" alt="Ashibre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashibre&show_icons=true&hide_border=true&theme=tokyonight" />
     
   </a>
 
