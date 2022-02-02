@@ -1,4 +1,5 @@
 # Hi, I'm Ashibre 👋
+![profile views](https://komarev.com/ghpvc/?username=ashibre&label=Profile%20views&color=ee6c4d&style=flat)
 <div align="center">
 <img hight="250" width="750" alt="GIF" align="center" src="https://img.search.brave.com/0ttX6Ll0RPpQ691l-1ZhxtbBtF6JbpJ-wZEWnxZ6lpg/rs:fit:500:281:1/g:ce/aHR0cHM6Ly82Ni5t/ZWRpYS50dW1ibHIu/Y29tL2Q4NmMzNzkz/NmQyNmYzZmIwMjQy/MjFiMjM1ZjE3Njcy/LzY3NDhiZjVjNWQ5/NzVhOTMtZDcvczUw/MHg3NTAvOThlYTEz/NTFhMTkzM2FiNTQ2/ZTkxZWE0MWQ3MzZh/YzFlNGI5MTM1OS5n/aWZ2">
 </div>
