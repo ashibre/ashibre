@@ -21,7 +21,7 @@
 
 <p align="center">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Discord" src="https://img.shields.io/badge/899276759495749703-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img alt="Discord" src="https://img.shields.io/badge/942459622718074900-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   
 </p>
 </br>
