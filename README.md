@@ -31,3 +31,10 @@
 </br>
 
 *************
+
+<div align="center">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/942459622718074900" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/942459622718074900?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
+   </a>
+</div>
