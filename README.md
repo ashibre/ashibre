@@ -1,13 +1,13 @@
 # Hi, I'm Ashi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
+  <img src="https://profile-counter.glitch.me/ashibre/count.svg" />
 </p>
 
 ```javascript
 const _Me = require('ashi-github')
 class Ashi extends _Me {
-  constructor()
+  constructor() {
   super({
       age : 15, boy: true, Locals: "France",
       aliases: ["ashi", "akhi", "evan"]
@@ -16,6 +16,7 @@ class Ashi extends _Me {
       lang: ["en", "fr"],
       system: "Windows",
 })
+}
 }
 ```
 
