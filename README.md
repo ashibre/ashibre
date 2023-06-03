@@ -11,7 +11,7 @@
 ```javascript
 class Ashi {
   constructor() {
-  super({age : 15, boy: true, Locals: "France",
+  super({age : 18, boy: true, Locals: "France",
       languages: [ Javascript, MySql, NodeJS ],
       tools: ["Postman", "Wampserver", "Photoshop"],
       system: "Windows",
