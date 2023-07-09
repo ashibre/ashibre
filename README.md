@@ -12,11 +12,10 @@
 class Ashi {
   constructor() {
   super({age : 18, boy: true, Locals: "France",
-      languages: [ Javascript, MySql, NodeJS ],
+      languages: [ Javascript, MySql],
       tools: ["Postman", "Wampserver", "Photoshop"],
       system: "Windows",
-})
-}
+})}
 }
 ```
 
