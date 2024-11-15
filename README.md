@@ -10,7 +10,7 @@
 </p>
 <h4 align="center">Current Known Languages: (best ➜ least)</h5>
 <p align="center">
-           <img src="https://skillicons.dev/icons?i=nodejs,html,css,js"/>
+           <img src="https://skillicons.dev/icons?i=js,lua,py"/>
 </p>
 <p align="center">
   <img width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=ashibre&theme=tokyonight&show_icons=true&hide_border=true" />
